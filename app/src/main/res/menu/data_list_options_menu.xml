@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/markAsDone"
+        android:title="Mark As Done" />
+
+    <item
+        android:id="@+id/delete"
+        android:title="Delete" />
+
+    <item
+        android:id="@+id/addDate"
+        android:title="Add Date Done On" />
+
+    <item
+        android:id="@+id/addImage"
+        android:title="Add Image" />
+
+
+</menu>

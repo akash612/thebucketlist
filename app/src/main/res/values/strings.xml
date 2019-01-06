@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The BucketList</string>
+    <string name="add_new_item" />
+    <string name="textview" />
+</resources>
